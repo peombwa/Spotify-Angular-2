@@ -31,7 +31,7 @@
     "@angular/http": "~7.2.16",
     "@angular/platform-browser": "~13.2.2",
     "@angular/platform-browser-dynamic": "~13.2.2",
-    "@angular/router": "~13.2.2",
+    "@angular/router": "~13.3.0",
 
     "angular-in-memory-web-api": "~0.13.0",
     "systemjs": "6.12.1",
